@@ -1,0 +1,59 @@
+{
+  "name": "agent-skills",
+  "version": "1.0.0",
+  "description": "A collection of specialized AI skills for software development",
+  "keywords": [
+    "ai",
+    "skills",
+    "typescript",
+    "python",
+    "csharp",
+    "javascript",
+    "c",
+    "cpp"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/skills"
+  },
+  "skills": {
+    "typescript": [
+      "better-auth-best-practices",
+      "better-auth-security-best-practices",
+      "create-auth-skill",
+      "email-and-password-best-practices",
+      "two-factor-authentication-best-practices",
+      "prisma-cli",
+      "prisma-client-api",
+      "prisma-database-setup",
+      "prisma-upgrade-v7",
+      "shadcn",
+      "react-hook-form-zod",
+      "find-skills"
+    ],
+    "python": [
+      "flask-python",
+      "keyauth-integration",
+      "dll-injection",
+      "pyinstaller-build",
+      "discord-bot",
+      "windows-memory-manipulation"
+    ],
+    "c": [
+      "memory-management",
+      "pointers"
+    ],
+    "cpp": [
+      "memory-management"
+    ],
+    "csharp": [
+      "inheritance",
+      "async-await"
+    ],
+    "javascript": [
+      "fetch-api",
+      "async-patterns"
+    ]
+  }
+}
