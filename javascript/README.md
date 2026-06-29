@@ -1,6 +1,6 @@
 # JavaScript Skills
 
-Skills for JavaScript development covering async patterns, Fetch API, and modern ES patterns.
+Skills for JavaScript development covering APIs, Discord bots, async patterns, and web development.
 
 ## Skills
 
@@ -8,10 +8,13 @@ Skills for JavaScript development covering async patterns, Fetch API, and modern
 |-------|-------------|
 | `fetch-api` | HTTP requests, error handling, file upload with Fetch API |
 | `async-patterns` | Promises, async/await, concurrency, retry patterns |
+| `api-creation` | REST API patterns with Node.js and Express |
+| `discord-bot` | Discord bot development with discord.js |
+| `terminal-app` | CLI applications, argument parsing, output formatting |
 
 ## Key Topics
 
-- Modern JavaScript (ES6+) patterns
-- Browser and Node.js async programming
-- HTTP client patterns
-- Promise-based concurrency
+- Node.js backend development
+- Discord bot development
+- CLI tools and utilities
+- REST API patterns

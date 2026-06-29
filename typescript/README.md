@@ -1,6 +1,6 @@
 # TypeScript Skills
 
-Skills for TypeScript/JavaScript development covering authentication, database, and UI patterns.
+Skills for TypeScript/JavaScript development covering authentication, database, UI, API, and CLI patterns.
 
 ## Skills
 
@@ -18,9 +18,14 @@ Skills for TypeScript/JavaScript development covering authentication, database, 
 | `shadcn` | shadcn/ui component management and rules |
 | `react-hook-form-zod` | React form validation with Zod schemas |
 | `find-skills` | Discovering and installing agent skills |
+| `api-creation` | REST API patterns with Node.js and Express |
+| `terminal-app` | CLI applications - argument parsing, progress bars |
+| `website-creation` | Web applications with Next.js |
 
 ## Related Topics
 
-- Authentication: Better Auth and 2FA
-- Database: Prisma ORM migrations, queries, setup
-- UI: shadcn/ui, React Hook Form, Zod validation
+- Authentication: Better Auth, OAuth, 2FA
+- Database: Prisma ORM migrations, queries
+- UI: shadcn/ui, React Hook Form, Zod
+- API: REST endpoints, middleware, validation
+- CLI: Terminal applications, prompts, formatting

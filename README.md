@@ -6,12 +6,13 @@ A collection of specialized skills for software development, organized by langua
 
 ```
 skills/
-├── typescript/         # TypeScript/JavaScript skills (12 skills)
-├── python/             # Python skills (6 skills)
-├── c/                  # C skills (2 skills)
-├── cpp/                # C++ skills (1 skill)
-├── csharp/             # C# skills (2 skills)
-└── javascript/         # JavaScript skills (2 skills)
+├── typescript/         # TypeScript/JavaScript (15 skills)
+├── python/             # Python (9 skills)
+├── c/                  # C (3 skills)
+├── cpp/                # C++ (4 skills)
+├── csharp/             # C# (5 skills)
+├── javascript/         # JavaScript (5 skills)
+└── powershell/         # PowerShell (4 skills)
 ```
 
 ## TypeScript Skills
@@ -30,6 +31,9 @@ skills/
 | `shadcn` | shadcn/ui component management and rules |
 | `react-hook-form-zod` | React form validation with Zod schemas |
 | `find-skills` | Discovering and installing agent skills |
+| `api-creation` | REST API patterns with Node.js and Express |
+| `terminal-app` | CLI applications - argument parsing, progress bars |
+| `website-creation` | Web applications with Next.js |
 
 ## Python Skills
 
@@ -41,6 +45,9 @@ skills/
 | `pyinstaller-build` | Building executables with PyInstaller |
 | `discord-bot` | Discord bot development and workflows |
 | `windows-memory-manipulation` | Windows memory scanning with PyMem |
+| `api-creation` | REST API patterns with Flask and FastAPI |
+| `process-memory` | Process memory manipulation - ReadProcessMemory, AOB scanning |
+| `terminal-app` | CLI applications - argument parsing, progress bars, prompts |
 
 ## C Skills
 
@@ -48,12 +55,16 @@ skills/
 |-------|-------------|
 | `memory-management` | Dynamic memory allocation, malloc/calloc/realloc/free patterns |
 | `pointers` | Pointer arithmetic, function pointers, void pointers, safety patterns |
+| `linux-app` | Linux application development - CLI tools, systemd services |
 
 ## C++ Skills
 
 | Skill | Description |
 |-------|-------------|
 | `memory-management` | Smart pointers, RAII, move semantics, modern C++ memory safety |
+| `process-memory` | ReadProcessMemory, WriteProcessMemory, AOB scanning |
+| `windows-api` | Windows API patterns - kernel32, user32 functions, handles |
+| `memory-monitor` | Performance counters, memory tracking, leak detection |
 
 ## C# Skills
 
@@ -61,6 +72,9 @@ skills/
 |-------|-------------|
 | `inheritance` | Inheritance, polymorphism, abstract classes, interfaces |
 | `async-await` | Async/await patterns, task-based async, cancellation tokens |
+| `windows-desktop-app` | WinForms, WPF, MSI/EXE deployment |
+| `local-auth` | Local authentication - user credentials, sessions, password storage |
+| `cloud-auth` | Cloud authentication - OAuth2, JWT, refresh tokens, 2FA |
 
 ## JavaScript Skills
 
@@ -68,6 +82,24 @@ skills/
 |-------|-------------|
 | `fetch-api` | HTTP requests, error handling, file upload with Fetch API |
 | `async-patterns` | Promises, async/await, concurrency, retry patterns |
+| `api-creation` | REST API patterns with Node.js and Express |
+| `discord-bot` | Discord bot development with discord.js |
+| `terminal-app` | CLI applications - argument parsing, output formatting |
+
+## PowerShell Skills
+
+| Skill | Description |
+|-------|-------------|
+| `scripting` | Cmdlets, modules, error handling, and automation scripts |
+| `wrapper` | Wrappers for executables, COM objects, .NET assemblies |
+| `batch-files` | Windows batch file patterns for cmd.exe environments |
+| `automation` | File operations, registry changes, scheduled tasks |
+
+## Kotlin Skills
+
+| Skill | Description |
+|-------|-------------|
+| `android-app` | Android application patterns - activities, fragments, Room database |
 
 ## Usage
 
